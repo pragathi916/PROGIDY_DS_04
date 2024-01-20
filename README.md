@@ -1,1 +1,2 @@
 # PROGIDY_DS_04
+This R script utilizes tidytext, ggplot2, and dplyr to perform sentiment analysis on Twitter data. After loading and preprocessing the dataset by removing URLs, special characters, and converting text to lowercase, the script tokenizes the text. Using the Bing sentiment lexicon, it calculates and visualizes average sentiment scores for positive and negative sentiments. This script provides a quick and customizable way to analyze sentiment distribution in Twitter data.
